@@ -104,5 +104,7 @@ More information is available on shopizer web site here <http://www.shopizer.com
 If you have interest in giving feedback or for participating to Shopizer project in any way
 Feel to use the contact form <http://www.shopizer.com/contact.html> and share your email address
 so we can send an invite to our Slack channel
+My name is somesh
+
 
 
